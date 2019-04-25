@@ -147,11 +147,11 @@
         </profile>
 
         <profile>
-            <id>pro</id>
+            <id>prod</id>
             <build>
                 <resources>
                     <resource>
-                        <directory>src/main/resources/pro</directory>
+                        <directory>src/main/resources/prod</directory>
                     </resource>
                     <resource>
                         <directory>src/main/resources</directory>
